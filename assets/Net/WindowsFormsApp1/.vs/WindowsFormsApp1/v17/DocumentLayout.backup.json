@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Net\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A993E489-3D1F-4E1D-AD63-1E637674DE35}|WindowsFormsApp1\\WindowsFormsApp1.csproj|f:\\net\\windowsformsapp1\\windowsformsapp1\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A993E489-3D1F-4E1D-AD63-1E637674DE35}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A993E489-3D1F-4E1D-AD63-1E637674DE35}|WindowsFormsApp1\\WindowsFormsApp1.csproj|f:\\net\\windowsformsapp1\\windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A993E489-3D1F-4E1D-AD63-1E637674DE35}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A993E489-3D1F-4E1D-AD63-1E637674DE35}|WindowsFormsApp1\\WindowsFormsApp1.csproj|f:\\net\\windowsformsapp1\\windowsformsapp1\\thongkethunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A993E489-3D1F-4E1D-AD63-1E637674DE35}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\thongkethunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A993E489-3D1F-4E1D-AD63-1E637674DE35}|WindowsFormsApp1\\WindowsFormsApp1.csproj|f:\\net\\windowsformsapp1\\windowsformsapp1\\trangnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A993E489-3D1F-4E1D-AD63-1E637674DE35}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\trangnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "trangnhanvien.cs [Design]",
+              "DocumentMoniker": "F:\\Net\\WindowsFormsApp1\\WindowsFormsApp1\\trangnhanvien.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\trangnhanvien.cs",
+              "ToolTip": "F:\\Net\\WindowsFormsApp1\\WindowsFormsApp1\\trangnhanvien.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\trangnhanvien.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:13:41.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "thongkethunhap.cs [Design]",
+              "DocumentMoniker": "F:\\Net\\WindowsFormsApp1\\WindowsFormsApp1\\thongkethunhap.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\thongkethunhap.cs",
+              "ToolTip": "F:\\Net\\WindowsFormsApp1\\WindowsFormsApp1\\thongkethunhap.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\thongkethunhap.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:13:36.65Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "F:\\Net\\WindowsFormsApp1\\WindowsFormsApp1\\login.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\login.cs",
+              "ToolTip": "F:\\Net\\WindowsFormsApp1\\WindowsFormsApp1\\login.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:13:19.176Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dangky.cs [Design]",
+              "DocumentMoniker": "F:\\Net\\WindowsFormsApp1\\WindowsFormsApp1\\dangky.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\dangky.cs",
+              "ToolTip": "F:\\Net\\WindowsFormsApp1\\WindowsFormsApp1\\dangky.cs [Design]*",
+              "RelativeToolTip": "WindowsFormsApp1\\dangky.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:13:16.614Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

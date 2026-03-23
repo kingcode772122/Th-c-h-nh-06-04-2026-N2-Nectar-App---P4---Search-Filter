@@ -1,0 +1,14 @@
+F:\Net\socket\socket\bin\Debug\net8.0\socket.exe
+F:\Net\socket\socket\bin\Debug\net8.0\socket.deps.json
+F:\Net\socket\socket\bin\Debug\net8.0\socket.runtimeconfig.json
+F:\Net\socket\socket\bin\Debug\net8.0\socket.dll
+F:\Net\socket\socket\bin\Debug\net8.0\socket.pdb
+F:\Net\socket\socket\obj\Debug\net8.0\socket.GeneratedMSBuildEditorConfig.editorconfig
+F:\Net\socket\socket\obj\Debug\net8.0\socket.AssemblyInfoInputs.cache
+F:\Net\socket\socket\obj\Debug\net8.0\socket.AssemblyInfo.cs
+F:\Net\socket\socket\obj\Debug\net8.0\socket.csproj.CoreCompileInputs.cache
+F:\Net\socket\socket\obj\Debug\net8.0\socket.dll
+F:\Net\socket\socket\obj\Debug\net8.0\refint\socket.dll
+F:\Net\socket\socket\obj\Debug\net8.0\socket.pdb
+F:\Net\socket\socket\obj\Debug\net8.0\socket.genruntimeconfig.cache
+F:\Net\socket\socket\obj\Debug\net8.0\ref\socket.dll

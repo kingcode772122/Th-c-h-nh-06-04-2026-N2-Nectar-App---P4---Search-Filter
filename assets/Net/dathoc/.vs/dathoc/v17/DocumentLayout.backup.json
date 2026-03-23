@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Net\\dathoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4A4197-03F1-4A43-86C5-C6ABE0E0ED65}|dathoc\\dathoc.csproj|f:\\net\\dathoc\\dathoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4A4197-03F1-4A43-86C5-C6ABE0E0ED65}|dathoc\\dathoc.csproj|solutionrelative:dathoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Net\\dathoc\\dathoc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "dathoc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Net\\dathoc\\dathoc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "dathoc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-04T09:15:45.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

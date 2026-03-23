@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Net\\baitap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|f:\\net\\baitap1\\baitap1\\models\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|solutionrelative:baitap1\\models\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|f:\\net\\baitap1\\baitap1\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|solutionrelative:baitap1\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|f:\\net\\baitap1\\baitap1\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|solutionrelative:baitap1\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|f:\\net\\baitap1\\baitap1\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|solutionrelative:baitap1\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|f:\\net\\baitap1\\baitap1\\views\\sanpham\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|solutionrelative:baitap1\\views\\sanpham\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|f:\\net\\baitap1\\baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10DA70E-9EDB-4FFC-A324-956C61F2C451}|baitap1\\baitap1.csproj|solutionrelative:baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "F:\\Net\\baitap1\\baitap1\\Models\\FileName.cs",
+              "RelativeDocumentMoniker": "baitap1\\Models\\FileName.cs",
+              "ToolTip": "F:\\Net\\baitap1\\baitap1\\Models\\FileName.cs",
+              "RelativeToolTip": "baitap1\\Models\\FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T01:34:23.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Net\\baitap1\\baitap1\\Program.cs",
+              "RelativeDocumentMoniker": "baitap1\\Program.cs",
+              "ToolTip": "F:\\Net\\baitap1\\baitap1\\Program.cs",
+              "RelativeToolTip": "baitap1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T03:56:38.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\Net\\baitap1\\baitap1\\Views\\SanPham\\Add.cshtml",
+              "RelativeDocumentMoniker": "baitap1\\Views\\SanPham\\Add.cshtml",
+              "ToolTip": "F:\\Net\\baitap1\\baitap1\\Views\\SanPham\\Add.cshtml",
+              "RelativeToolTip": "baitap1\\Views\\SanPham\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T03:20:10.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "F:\\Net\\baitap1\\baitap1\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "baitap1\\Models\\SanPham.cs",
+              "ToolTip": "F:\\Net\\baitap1\\baitap1\\Models\\SanPham.cs",
+              "RelativeToolTip": "baitap1\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA/wBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T03:15:38.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "F:\\Net\\baitap1\\baitap1\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "baitap1\\Controllers\\SanPhamController.cs",
+              "ToolTip": "F:\\Net\\baitap1\\baitap1\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "baitap1\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T03:11:17.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Net\\baitap1\\baitap1\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "baitap1\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "F:\\Net\\baitap1\\baitap1\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "baitap1\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-18T03:01:57.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

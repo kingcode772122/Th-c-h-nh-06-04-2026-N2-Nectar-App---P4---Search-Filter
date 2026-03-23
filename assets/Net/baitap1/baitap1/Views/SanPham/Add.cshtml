@@ -1,0 +1,32 @@
+﻿@model baitap1.Models.SanPham
+
+<h2>Thêm sản phẩm</h2>
+
+@using (Html.BeginForm())
+{
+    <input name="Ten" placeholder="Tên" />
+    <br />
+    <input name="Gia" placeholder="Giá" />
+    <br />
+    <input name="GiaCu" placeholder="Giá cũ" />
+    <br />
+    <input name="Hinh" placeholder="Link hình" />
+    <br />
+
+    <select name="Type">
+        <option>Latest</option>
+        <option>Featured</option>
+        <option>Special</option>
+    </select>
+    <br />
+
+    <label><input type="checkbox" name="Sale" /> Sale</label>
+    <br />
+    <label><input type="checkbox" name="SoldOut" /> Sold out</label>
+    <br />
+
+    <input name="Rating" placeholder="Rating" />
+    <br />
+
+    <button type="submit">Lưu</button>
+}
