@@ -1,21 +1,18 @@
 import { Stack } from "expo-router";
-
+import { CartProvider } from "./CartContext"; 
 
 
 export default function Layout() {
   
   return (
-    <Stack initialRouteName="homescreen" screenOptions={{ headerShown: false }}>
-      <Stack.Screen name="splashscreen" />
-      <Stack.Screen name="onboarding" />
-      <Stack.Screen name="signin" />
-      <Stack.Screen name="number" />
-      <Stack.Screen name="verification" />
-      <Stack.Screen name="location" />
-      <Stack.Screen name="login" />
-      <Stack.Screen name="signup" />
-      <Stack.Screen name="DetailScreen" />
-      <Stack.Screen name="explore" />
-    </Stack>
+    <CartProvider> 
+  <Stack initialRouteName="homescreen" screenOptions={{ headerShown: false }}>
+  <Stack.Screen name="homescreen" />  {/* 👈 THÊM DÒNG NÀY */}
+  <Stack.Screen name="filter" />
+  <Stack.Screen name="cart" />
+  <Stack.Screen name="favourite" />
+  
+</Stack>
+</CartProvider>
   );
 }
